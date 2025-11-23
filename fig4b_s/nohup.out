@@ -1,0 +1,340 @@
+python3: can't open file '/home/chieh1102/FPLmodel/open-loop_v5/fig4b/uni153.py': [Errno 2] No such file or directory
+INFO       Cache size for target 'cython': 86894343959 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+1
+ERROR      Brian 2 encountered an unexpected error. If you think this is a bug in Brian 2, please report this issue either to the discourse forum at <http://brian.discourse.group/>, or to the issue tracker at <https://github.com/brian-team/brian2/issues>. Please include this file with debug information in your report: /tmp/brian_debug_0fg3rbb3.log  Additionally, you can also include a copy of the script that was run, available at: /tmp/brian_script_clgyi0sk.py You can also include a copy of the redirected std stream outputs, available at '/tmp/brian_stdout_2jcgvmqo.log' and '/tmp/brian_stderr_pn_v1q1s.log'. Thanks! [brian2]
+Traceback (most recent call last):
+  File "/home/chieh1102/FPLmodel/open-loop_v5/fig4b/uni153017.py", line 2840, in <module>
+    with open(file_path, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/chieh1102/FPLmodel/open-loop_v5/fig4b/data_ori/dna02_90_0.01_DNa02.txt'
+INFO       Cache size for target 'cython': 86896251543 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+1
+run time: 65.56490564346313 s
+INFO       Cache size for target 'cython': 86898159127 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+1
+run time: 67.31442165374756 s
+INFO       Cache size for target 'cython': 86900066711 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+1
+run time: 67.01849675178528 s
+INFO       Cache size for target 'cython': 86901974295 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+1
+run time: 67.07415819168091 s
+INFO       Cache size for target 'cython': 86903881879 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+1
+run time: 65.39976453781128 s
+INFO       Cache size for target 'cython': 79344197377 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+INFO       Cache size for target 'cython': 79344197377 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+run time: 244.20824337005615 s
+run time: 242.46952056884766 s
+INFO       Cache size for target 'cython': 79348396081 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+INFO       Cache size for target 'cython': 79348396081 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+run time: 257.9529685974121 s
+run time: 259.7139575481415 s
+INFO       Cache size for target 'cython': 79352888177 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+INFO       Cache size for target 'cython': 79352888177 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+ERROR      Brian 2 encountered an unexpected error. If you think this is a bug in Brian 2, please report this issue either to the discourse forum at <http://brian.discourse.group/>, or to the issue tracker at <https://github.com/brian-team/brian2/issues>. Please include this file with debug information in your report: /tmp/brian_debug_rt1wh6q2.log  Additionally, you can also include a copy of the script that was run, available at: /tmp/brian_script_if2euqtq.py You can also include a copy of the redirected std stream outputs, available at '/tmp/brian_stdout_kfq52hm2.log' and '/tmp/brian_stderr_3qujqvsu.log'. Thanks! [brian2]
+Traceback (most recent call last):
+  File "/home/chieh1102/FPLmodel/open-loop_v5/fig4b_s/uni153017046.py", line 2815, in <module>
+    run(800*ms)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 2428, in new_f
+    result = f(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/magic.py", line 373, in run
+    return magic_network.run(duration, report=report, report_period=report_period,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/magic.py", line 230, in run
+    Network.run(self, duration, report=report, report_period=report_period,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/base.py", line 293, in device_override_decorated_function
+    return func(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 2428, in new_f
+    result = f(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/network.py", line 1085, in run
+    obj.run()
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/operations.py", line 82, in run
+    self.function(self._clock.t)
+  File "/home/chieh1102/FPLmodel/open-loop_v5/fig4b_s/uni153017046.py", line 2806, in custom_network_operation
+    LAL153[1].I = int(sys.argv[3])/2 + noise * np.random.randn()
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1426, in __radd__
+    return self.__add__(other)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1421, in __add__
+    return self._binary_operation(other, operator.add,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1361, in _binary_operation
+    _, other_dim = fail_for_dimension_mismatch(self, other, message,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 187, in fail_for_dimension_mismatch
+    raise DimensionMismatchError(error_message, dim1, dim2)
+brian2.units.fundamentalunits.DimensionMismatchError: Cannot calculate -73.11662649 Hz + 12.5, units do not match (units are Hz and 1).
+ERROR      Brian 2 encountered an unexpected error. If you think this is a bug in Brian 2, please report this issue either to the discourse forum at <http://brian.discourse.group/>, or to the issue tracker at <https://github.com/brian-team/brian2/issues>. Please include this file with debug information in your report: /tmp/brian_debug_q_i2_wwx.log  Additionally, you can also include a copy of the script that was run, available at: /tmp/brian_script_yflzn07o.py You can also include a copy of the redirected std stream outputs, available at '/tmp/brian_stdout_sm1uz95p.log' and '/tmp/brian_stderr_u2as5775.log'. Thanks! [brian2]
+Traceback (most recent call last):
+  File "/home/chieh1102/FPLmodel/open-loop_v5/fig4b_s/uni153017046.py", line 2815, in <module>
+    run(800*ms)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 2428, in new_f
+    result = f(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/magic.py", line 373, in run
+    return magic_network.run(duration, report=report, report_period=report_period,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/magic.py", line 230, in run
+    Network.run(self, duration, report=report, report_period=report_period,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/base.py", line 293, in device_override_decorated_function
+    return func(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 2428, in new_f
+    result = f(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/network.py", line 1085, in run
+    obj.run()
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/operations.py", line 82, in run
+    self.function(self._clock.t)
+  File "/home/chieh1102/FPLmodel/open-loop_v5/fig4b_s/uni153017046.py", line 2806, in custom_network_operation
+    LAL153[1].I = int(sys.argv[3])/2 + noise * np.random.randn()
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1426, in __radd__
+    return self.__add__(other)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1421, in __add__
+    return self._binary_operation(other, operator.add,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1361, in _binary_operation
+    _, other_dim = fail_for_dimension_mismatch(self, other, message,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 187, in fail_for_dimension_mismatch
+    raise DimensionMismatchError(error_message, dim1, dim2)
+brian2.units.fundamentalunits.DimensionMismatchError: Cannot calculate -10.44523236 Hz + 12.5, units do not match (units are Hz and 1).
+INFO       Cache size for target 'cython': 79357290569 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+INFO       Cache size for target 'cython': 79357290569 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+ERROR      Brian 2 encountered an unexpected error. If you think this is a bug in Brian 2, please report this issue either to the discourse forum at <http://brian.discourse.group/>, or to the issue tracker at <https://github.com/brian-team/brian2/issues>. Please include this file with debug information in your report: /tmp/brian_debug_0glv2q0j.log  Additionally, you can also include a copy of the script that was run, available at: /tmp/brian_script_50j21_hf.py You can also include a copy of the redirected std stream outputs, available at '/tmp/brian_stdout_yir5yd5x.log' and '/tmp/brian_stderr__4cgo8c6.log'. Thanks! [brian2]
+Traceback (most recent call last):
+  File "/home/chieh1102/FPLmodel/open-loop_v5/fig4b_s/uni153017046.py", line 2815, in <module>
+    run(800*ms)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 2428, in new_f
+    result = f(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/magic.py", line 373, in run
+    return magic_network.run(duration, report=report, report_period=report_period,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/magic.py", line 230, in run
+    Network.run(self, duration, report=report, report_period=report_period,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/base.py", line 293, in device_override_decorated_function
+    return func(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 2428, in new_f
+    result = f(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/network.py", line 1085, in run
+    obj.run()
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/operations.py", line 82, in run
+    self.function(self._clock.t)
+  File "/home/chieh1102/FPLmodel/open-loop_v5/fig4b_s/uni153017046.py", line 2806, in custom_network_operation
+    LAL153[1].I = int(sys.argv[3])/2 + noise * np.random.randn()
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1426, in __radd__
+    return self.__add__(other)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1421, in __add__
+    return self._binary_operation(other, operator.add,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1361, in _binary_operation
+    _, other_dim = fail_for_dimension_mismatch(self, other, message,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 187, in fail_for_dimension_mismatch
+    raise DimensionMismatchError(error_message, dim1, dim2)
+brian2.units.fundamentalunits.DimensionMismatchError: Cannot calculate -0.33030725 s^0.5 + 12.5, units do not match (units are s^0.5 and 1).
+ERROR      Brian 2 encountered an unexpected error. If you think this is a bug in Brian 2, please report this issue either to the discourse forum at <http://brian.discourse.group/>, or to the issue tracker at <https://github.com/brian-team/brian2/issues>. Please include this file with debug information in your report: /tmp/brian_debug_dbmtcfj4.log  Additionally, you can also include a copy of the script that was run, available at: /tmp/brian_script_dqfyj4eh.py You can also include a copy of the redirected std stream outputs, available at '/tmp/brian_stdout_uq45rx9d.log' and '/tmp/brian_stderr_l939nhxz.log'. Thanks! [brian2]
+Traceback (most recent call last):
+  File "/home/chieh1102/FPLmodel/open-loop_v5/fig4b_s/uni153017046.py", line 2815, in <module>
+    run(800*ms)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 2428, in new_f
+    result = f(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/magic.py", line 373, in run
+    return magic_network.run(duration, report=report, report_period=report_period,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/magic.py", line 230, in run
+    Network.run(self, duration, report=report, report_period=report_period,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/base.py", line 293, in device_override_decorated_function
+    return func(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 2428, in new_f
+    result = f(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/network.py", line 1085, in run
+    obj.run()
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/operations.py", line 82, in run
+    self.function(self._clock.t)
+  File "/home/chieh1102/FPLmodel/open-loop_v5/fig4b_s/uni153017046.py", line 2806, in custom_network_operation
+    LAL153[1].I = int(sys.argv[3])/2 + noise * np.random.randn()
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1426, in __radd__
+    return self.__add__(other)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1421, in __add__
+    return self._binary_operation(other, operator.add,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1361, in _binary_operation
+    _, other_dim = fail_for_dimension_mismatch(self, other, message,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 187, in fail_for_dimension_mismatch
+    raise DimensionMismatchError(error_message, dim1, dim2)
+brian2.units.fundamentalunits.DimensionMismatchError: Cannot calculate -2.31215075 s^0.5 + 12.5, units do not match (units are s^0.5 and 1).
+INFO       Cache size for target 'cython': 79361714625 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+INFO       Cache size for target 'cython': 79361714625 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+ERROR      Brian 2 encountered an unexpected error. If you think this is a bug in Brian 2, please report this issue either to the discourse forum at <http://brian.discourse.group/>, or to the issue tracker at <https://github.com/brian-team/brian2/issues>. Please include this file with debug information in your report: /tmp/brian_debug_r9h10a3a.log  Additionally, you can also include a copy of the script that was run, available at: /tmp/brian_script_r_b13_ej.py You can also include a copy of the redirected std stream outputs, available at '/tmp/brian_stdout_dx_5_enl.log' and '/tmp/brian_stderr_fg5roqek.log'. Thanks! [brian2]
+Traceback (most recent call last):
+  File "/home/chieh1102/FPLmodel/open-loop_v5/fig4b_s/uni153017046.py", line 2816, in <module>
+    run(800*ms)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 2428, in new_f
+    result = f(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/magic.py", line 373, in run
+    return magic_network.run(duration, report=report, report_period=report_period,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/magic.py", line 230, in run
+    Network.run(self, duration, report=report, report_period=report_period,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/base.py", line 293, in device_override_decorated_function
+    return func(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 2428, in new_f
+    result = f(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/network.py", line 1085, in run
+    obj.run()
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/operations.py", line 82, in run
+    self.function(self._clock.t)
+  File "/home/chieh1102/FPLmodel/open-loop_v5/fig4b_s/uni153017046.py", line 2807, in custom_network_operation
+    LAL153[1].I = int(sys.argv[3])/2 + noise * np.random.randn()
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1426, in __radd__
+    return self.__add__(other)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1421, in __add__
+    return self._binary_operation(other, operator.add,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1361, in _binary_operation
+    _, other_dim = fail_for_dimension_mismatch(self, other, message,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 187, in fail_for_dimension_mismatch
+    raise DimensionMismatchError(error_message, dim1, dim2)
+brian2.units.fundamentalunits.DimensionMismatchError: Cannot calculate -2.31215075 s^0.5 + 12.5, units do not match (units are s^0.5 and 1).
+ERROR      Brian 2 encountered an unexpected error. If you think this is a bug in Brian 2, please report this issue either to the discourse forum at <http://brian.discourse.group/>, or to the issue tracker at <https://github.com/brian-team/brian2/issues>. Please include this file with debug information in your report: /tmp/brian_debug__viil_yu.log  Additionally, you can also include a copy of the script that was run, available at: /tmp/brian_script_6k75z5w7.py You can also include a copy of the redirected std stream outputs, available at '/tmp/brian_stdout_ta72s9r1.log' and '/tmp/brian_stderr_ej6_6qbq.log'. Thanks! [brian2]
+Traceback (most recent call last):
+  File "/home/chieh1102/FPLmodel/open-loop_v5/fig4b_s/uni153017046.py", line 2816, in <module>
+    run(800*ms)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 2428, in new_f
+    result = f(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/magic.py", line 373, in run
+    return magic_network.run(duration, report=report, report_period=report_period,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/magic.py", line 230, in run
+    Network.run(self, duration, report=report, report_period=report_period,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/base.py", line 293, in device_override_decorated_function
+    return func(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 2428, in new_f
+    result = f(*args, **kwds)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/network.py", line 1085, in run
+    obj.run()
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/core/operations.py", line 82, in run
+    self.function(self._clock.t)
+  File "/home/chieh1102/FPLmodel/open-loop_v5/fig4b_s/uni153017046.py", line 2807, in custom_network_operation
+    LAL153[1].I = int(sys.argv[3])/2 + noise * np.random.randn()
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1426, in __radd__
+    return self.__add__(other)
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1421, in __add__
+    return self._binary_operation(other, operator.add,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 1361, in _binary_operation
+    _, other_dim = fail_for_dimension_mismatch(self, other, message,
+  File "/home/chieh1102/.conda/envs/brian2/lib/python3.9/site-packages/brian2/units/fundamentalunits.py", line 187, in fail_for_dimension_mismatch
+    raise DimensionMismatchError(error_message, dim1, dim2)
+brian2.units.fundamentalunits.DimensionMismatchError: Cannot calculate -0.33030725 s^0.5 + 12.5, units do not match (units are s^0.5 and 1).
+INFO       Cache size for target 'cython': 79366117209 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+INFO       Cache size for target 'cython': 79366117209 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+run time: 241.4569709300995 s
+run time: 243.96743607521057 s
+INFO       Cache size for target 'cython': 79370269545 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+INFO       Cache size for target 'cython': 79372636297 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+INFO       Cache size for target 'cython': 79374769601 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+INFO       Cache size for target 'cython': 79376834801 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+INFO       Cache size for target 'cython': 79379065609 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+INFO       Cache size for target 'cython': 79381041137 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+INFO       Cache size for target 'cython': 79383106337 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+INFO       Cache size for target 'cython': 79385375521 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+run time: 385.69024300575256 s
+INFO       Cache size for target 'cython': 79387644609 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+run time: 386.00212359428406 s
+INFO       Cache size for target 'cython': 79389777913 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+run time: 382.95541882514954 s
+INFO       Cache size for target 'cython': 79391979209 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+run time: 387.8152768611908 s

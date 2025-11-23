@@ -1,0 +1,12 @@
+pro-goal : 4078
+anti-goal : 3
+strengthen 017 : 1465
+- anti->pro : 5204
+- 153 : 5417
+- goal input : 8333
+- 122 : 9705
+- 122->153 & - goal : 7911
+
+FS
+noise 0.01 : 4857
+noise 0.07 : 5260

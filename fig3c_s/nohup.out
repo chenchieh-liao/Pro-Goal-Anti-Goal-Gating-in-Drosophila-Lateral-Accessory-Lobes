@@ -1,0 +1,40 @@
+INFO       Cache size for target 'cython': 78205661307 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+run time: 84.19746780395508 s
+INFO       Cache size for target 'cython': 78207884275 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+INFO       Cache size for target 'cython': 78208384238 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+run time: 86.55789279937744 s
+python: can't open file '/home/chieh1102/FPLmodel/open-loop_v5/fig3c_s/control_no121.py': [Errno 2] No such file or directory
+INFO       Cache size for target 'cython': 78210675150 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+run time: 87.9763674736023 s
+INFO       Cache size for target 'cython': 78213012230 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+run time: 97.29414176940918 s
+INFO       Cache size for target 'cython': 78215281470 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+INFO       Cache size for target 'cython': 78215281470 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+run time: 85.80515956878662 s
+run time: 95.01068425178528 s
+INFO       Cache size for target 'cython': 78219683998 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+run time: 80.66462206840515 s
