@@ -1,0 +1,93 @@
+INFO       Cache size for target 'cython': 66458786559 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+9826
+pfl2
+1
+INFO       Cache size for target 'cython': 66459203983 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+3937
+pfl2
+1
+run time: 87.97338271141052 s
+run time: 85.42971205711365 s
+INFO       Cache size for target 'cython': 66463870079 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+2055
+pfl2
+3
+INFO       Cache size for target 'cython': 66463870079 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+7953
+pfl2
+3
+run time: 84.87551522254944 s
+run time: 87.84166860580444 s
+/home/chieh1102/.conda/envs/brian2/bin/python: /home/chieh1102/.conda/envs/brian2/bin/python: cannot execute binary file
+INFO       Cache size for target 'cython': 78173656841 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+1
+INFO       Cache size for target 'cython': 78173656841 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+1
+run time: 109.87332439422607 s
+run time: 108.80452919006348 s
+INFO       Cache size for target 'cython': 78178013113 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+1
+INFO       Cache size for target 'cython': 78178013113 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+1
+run time: 107.28880882263184 s
+run time: 109.56744313240051 s
+INFO       Cache size for target 'cython': 78182437065 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+1
+run time: 112.99746346473694 s
+INFO       Cache size for target 'cython': 78184774145 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+2
+INFO       Cache size for target 'cython': 78184774145 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+2
+INFO       Cache size for target 'cython': 78188122331 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+INFO       Cache size for target 'cython': 78188122331 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+run time: 80.14286208152771 s
+run time: 88.89165830612183 s
+INFO       Cache size for target 'cython': 78192410499 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+INFO       Cache size for target 'cython': 78192410499 MB.
+You can call clear_cache('cython') to delete all files from the cache or manually delete files in the '/home/chieh1102/.cython/brian_extensions' directory. [brian2]
+START!!
+pfl2
+3
+run time: 80.49222421646118 s
+run time: 87.97518754005432 s
